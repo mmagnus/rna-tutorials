@@ -11,7 +11,8 @@ rna-tutorials is a hands-on repository with shell scripts and command examples d
 
 ## Tools
 
-- Emacs for editing files in the PDB format https://github.com/mmagnus/emacs-pdb-mode
+<img width="763" height="418" alt="emacs-rna-tools" src="https://github.com/user-attachments/assets/fcb92417-06f0-44d9-813a-7fa38251e73d" />
+Emacs for editing files in the PDB format https://github.com/mmagnus/emacs-pdb-mode
 
 ## Examplary inputs
 

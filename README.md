@@ -9,12 +9,12 @@
 
 rna-tutorials is a hands-on repository with shell scripts and command examples demonstrating practical RNA analysis workflows and basic Infernal/RNA-tools usage, aimed at education and reproducible tutorials.
 
-1. Make a sequence alignments of two RNA sequences (`infernal-align-two-seqs-to-rfam-model`), the two tRNA molecules share an almost identical 3D fold despite only 63% sequence identity in their aligned regions
-1. Calculate RMSD between two structures of homologs? (`rna-3d-rmsd-for-tRNAs`) - 3D structural alignment between two tRNA molecules
-1. Secondary structure, returns matrix of interactions[^1] (`secondary-structure-interaction-arrays`)
-1. Get secondary structure for tRNA (1ehz)
+1. Make a sequence alignments of two RNA sequences (`infernal-align-two-seqs-to-rfam-model`), the two tRNA molecules share an almost identical 3D fold despite only 63% sequence identity in their aligned regions #infernal #rfam
+1. Calculate RMSD between two structures of homologs? (`rna-3d-rmsd-for-tRNAs`) - 3D structural alignment between two tRNA molecules #pymol #infernal #rfam
+1. Secondary structure, returns matrix of interactions[^1] (`secondary-structure-interaction-arrays`) #python #numpy
+1. Get secondary structure for tRNA (1ehz) #rnatools
      - using frabase (https://rnafrabase.cs.put.poznan.pl)
-1. Annotate secondary strucure for `tetraloop_steamOf1bp.pdb` (with rna-tools.online)
+1. Annotate secondary strucure for `tetraloop_steamOf1bp.pdb` (with rna-tools.online) #rnatools
    
 ## RNA Edit
 

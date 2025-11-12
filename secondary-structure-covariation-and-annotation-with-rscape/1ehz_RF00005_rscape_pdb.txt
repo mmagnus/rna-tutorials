@@ -2,7 +2,7 @@
 # R-scape 2.0.4.i (July 2024)
 # Copyright (C) 2017-2024 Elena Rivas, Harvard University.
 # Freely distributed under the GNU General Public License (GPLv3).
-/Users/magnus/work/opt/r-scape/rscape_v2.0.4.i/bin/pdb_parse.pl -D 8.000000 -L 1 -W MIN -C esltmp8qT9gP -M esltmp2nFzb2 -R -S 1ehz_A.pdb 1ehz_RF00005.sto /Users/magnus/work/opt/r-scape/rscape_v2.0.4.i/bin  > /dev/null
+/Users/magnus/work/opt/r-scape/rscape_v2.0.4.i/bin/pdb_parse.pl -D 8.000000 -L 1 -W MIN -C esltmpnxpqox -M esltmpGLOOnB -R -S 1ehz_A.pdb 1ehz_RF00005.sto /Users/magnus/work/opt/r-scape/rscape_v2.0.4.i/bin  > /dev/null
 # ij in alignment | ij in pdbsequence | basepair type
 # 1 124 | -1 -1 | WWc
 # 2 123 | -1 -1 | WWc
